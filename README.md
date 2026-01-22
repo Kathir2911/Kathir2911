@@ -33,10 +33,10 @@ src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gi
 </table>
 
 ---
-### 💻 I code in
+### 💻 I Code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 
-### 🛠 IDE and Tools I Use
+### 🛠 IDEs and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
 
 ---
@@ -94,7 +94,8 @@ Analyzed datasets using Python (Pandas, NumPy) and created visualizations
 
 ---
 
-[![Kathir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kathir2911&bg_color=121212&color=eeecec&line=9e4c98&point=24b7db&area=true&hide_border=true)](https://github.com/Kathir2911)
+![Kathir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kathir2911&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
 
 ---
 
